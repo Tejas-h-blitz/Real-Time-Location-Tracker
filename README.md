@@ -3,7 +3,7 @@
 
 ![17-07-2025](https://github.com/user-attachments/assets/51021220-d6c5-44fd-a08c-36061af891fe)
 
-
+ 
 ## Overview
 
 Welcome to the **Real-Time Location Tracking** project! This web application is designed for real-time location tracking and monitoring. It utilizes WebSocket technology to provide real-time updates, displaying the location of tracked entities on a map. All connected users can view everyone's location on the map in real-time.
