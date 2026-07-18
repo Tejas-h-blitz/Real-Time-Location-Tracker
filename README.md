@@ -15,7 +15,7 @@ Welcome to the **Real-Time Location Tracking** project! This web application is 
 - **Multi-user Support**: Multiple connected users can view locations simultaneously.
 
 ## Technologies Used
-
+ 
 - **JavaScript** : The programming language used for both client-side and server-side logic.
 - **Node.js** : JavaScript runtime built on Chrome's V8 JavaScript engine.
 - **Express.js** : A fast, unopinionated, minimalist web framework for Node.js.
